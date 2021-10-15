@@ -5,7 +5,7 @@ In this repository you can find supplimentary materials and source codes for the
 
 <h2>Biomedical/clinical NLP tasks</h2>
 <p>We used various biomedical/clinical text processing datasets covering five different NLP tasks.</p>
-<p>Link to the datasets:
+<p>Links to the datasets:
 <br>
   
 - BioText: https://biotext.berkeley.edu/
