@@ -1,7 +1,7 @@
 # RobustBioNLP
 Improving the robustness and performance of biomedical NLP models through adversarial training
 
-In this repository you can find supplimentary matterials of the paper titled "Improving the robustness and accuracy of biomedical language models through adversarial training". The paper can be found on arxive at (link to the arxive paper).
+In this repository you can find supplimentary materials and source codes for the paper titled "Improving the robustness and accuracy of biomedical language models through adversarial training". The paper can be found on arxive at (link to the arxive paper).
 
 <h2>Biomedical/clinical NLP tasks</h2>
 <p>We used various biomedical/clinical text processing datasets covering five different NLP tasks.</p>
