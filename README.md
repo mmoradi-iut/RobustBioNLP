@@ -14,7 +14,7 @@ In this repository you can find supplimentary materials and source codes for the
 - PubMed-RCT: https://github.com/Franck-Dernoncourt/pubmed-rct
 - PubMed-QA: https://pubmedqa.github.io/</p>
 
-<h2>Robust-BioMede-RoBERTa models</h2>
+<h2>Robust-BioMed-RoBERTa models</h2>
 <p>Here you can find links to the Robust-BioMede-RoBERTa models separately fine-tuned on adversarial samples for each of the biomedical/clinical NLP tasks:
 <br>
   
