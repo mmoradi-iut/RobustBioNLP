@@ -13,3 +13,13 @@ In this repository you can find supplimentary materials and source codes for the
 - MedSTS: https://n2c2.dbmi.hms.harvard.edu/track1
 - PubMed-RCT: https://github.com/Franck-Dernoncourt/pubmed-rct
 - PubMed-QA: https://pubmedqa.github.io/</p>
+
+<h2>Robust-BioMede-RoBERTa models</h2>
+<p>Here you can find links to the Robust-BioMede-RoBERTa models separately fine-tuned on adversarial samples for each of the biomedical/clinical NLP tasks:
+<br>
+  
+- Robust-BioMed-RoBERTa-RelationClassification: https://huggingface.co/mmoradi/Robust-Biomed-RoBERTa-RelationClassification
+- Robust-BioMed-RoBERTa-TextualInference: https://huggingface.co/mmoradi/Robust-Biomed-RxoBERTa-TextualInference
+- Robust-BioMed-RoBERTa-SemanticSimilarity: https://huggingface.co/mmoradi/Robust-Biomed-RoBERTa-SemanticSimilarity
+- Robust-BioMed-RoBERTa-TextClassification: https://huggingface.co/mmoradi/Robust-Biomed-RoBERTa-TextClassification
+- Robust-BioMed-RoBERTa-QuestionAnswering: https://huggingface.co/mmoradi/Robust-Biomed-RoBERTa-QuestionAnswering</p>
